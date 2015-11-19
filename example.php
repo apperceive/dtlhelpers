@@ -32,7 +32,7 @@ drupal_set_message(theme_table($vars));
 
 print theme_table($vars);
 
-/* output
+/* output from devel execute php menu item
 
 <table class="sticky-enabled">
 <caption>caption goes here</caption>
