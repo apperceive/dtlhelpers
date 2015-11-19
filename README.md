@@ -6,7 +6,7 @@ Drupal table and list theme helpers for all those tedious defaults
 - allow easy table data contruction with just a few params
 - defaults for everything
 - easily add colspans and td classess/sytles
-- goals: theme_table(init_table()) works
+- goal: theme_table(init_table()) works
 
 
 ```php
