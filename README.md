@@ -8,6 +8,7 @@ Drupal table and list theme helpers for all those tedious defaults
 - easily add colspans and td classess/sytles
 - goal: theme_table(init_table()) works
 - goal: use with webform theming, sln reports, other?
+- issue: deal with lack of overloading
 
 
 ```php
